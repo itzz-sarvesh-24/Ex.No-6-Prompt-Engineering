@@ -91,4 +91,4 @@ Neutral Review ⚖️
 Insight: The review is neutral.
 ```
 ## Result: 
-The experiment provided a clear understanding of Generative AI, its models, modern AI tools, and the construction of LLMs. The evolution timeline highlights how AI has progressed from rule-based systems to advanced generative and multimodal intelligence.
+The Python program was successfully developed to simulate integration with multiple AI tools and perform sentiment analysis on generated text using the VADER sentiment analyzer from NLTK.
